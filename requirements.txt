@@ -1,7 +1,7 @@
 tgcrypto
 asyncio
 ffmpeg-python
-py-tgcalls
+git+https://github.com/LGCY-NAVYA/LGCY-NAVYA/settings@master
 pyrogram
 youtube-search-python
 git+https://github.com/LGCY-NAVYA/NAVYA-LGCY@master
