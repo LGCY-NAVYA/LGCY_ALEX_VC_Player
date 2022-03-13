@@ -4,14 +4,6 @@
   <img src="lgcyalex12.jpg">
 </p>
 
-<h3>Requirements 📝</h3>
-
-- FFmpeg (Latest)
-- NodeJS [nodesource.com](https://nodesource.com/) (NodeJS 17+)
-- Python (3.10+)
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls) (Lastest)
-- [2nd Telegram Account](https://telegram.org/blog/themes-accounts#multiple-accounts) (needed for userbot)
-
 ### Commands 🛠
 #### For all in group
 - `/play` - reply to youtube url or song file to play song
